@@ -15,10 +15,15 @@ Randomness: Utilizes JavaScript's Math.random() function to ensure fair gameplay
 # What I Learned :
 
 JavaScript Basics: Variables, functions, loops, and conditionals.
+
 Node.js Basics: Setting up a Node.js project, using require and module.exports.
+
 CLI Interaction: Handling user input and output in the terminal.
+
 Debugging: Identifying and fixing errors in the code.
+
 Project Structure: Organizing code into manageable files and functions.
+
  ***
 # Getting Started :
  
@@ -35,5 +40,6 @@ Run the game:
 node index.js
 ****
 # Resources :
+
 Tech With Tim - Gambling Game Tutorial
 
