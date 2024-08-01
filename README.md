@@ -7,7 +7,9 @@ This project is a JavaScript-based gambling game that I developed while followin
 Features
 
 Command Line Interface: A simple and intuitive CLI that allows users to interact with the game.
+
 Game Logic: Core gambling mechanics implemented using JavaScript.
+
 Randomness: Utilizes JavaScript's Math.random() function to ensure fair gameplay.
  ***
 # What I Learned :
