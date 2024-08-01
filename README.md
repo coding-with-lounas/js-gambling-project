@@ -37,7 +37,7 @@ Install the dependencies:
 npm install
 
 Run the game:
-node index.js
+node project.js
 ****
 # Resources :
 
