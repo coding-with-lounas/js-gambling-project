@@ -1,6 +1,6 @@
 # js-gambling-project
         
-        ***
+    
 
 
 This project is a JavaScript-based gambling game that I developed while following along with a tutorial by Tech With Tim on YouTube. Through this project, I have learned and practiced many fundamental concepts in JavaScript and Node.js.
