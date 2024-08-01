@@ -20,7 +20,7 @@ Project Structure: Organizing code into manageable files and functions.
 # Getting Started
  
  Clone the repository:
-git clone https://github.com/yourusername/js-gambling-project.git
+git clone https://github.com/coding-with-lounas/js-gambling-project.git
 
 Open the project directory:
 cd js-gambling-project
